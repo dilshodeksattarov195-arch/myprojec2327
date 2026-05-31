@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingvave",
+        "uuid": 20638163,
+        "checksum": "hqwmlu"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
